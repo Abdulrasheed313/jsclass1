@@ -20,6 +20,7 @@ alert(rollno);
 alert(Course);
 
 
+
 alert("Name" + " " + name +  " " + "Rollno" + " " + rollno)
 
 alert("PIZZA \n PIZZ \n PIZ \n PI \n P")
