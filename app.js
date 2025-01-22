@@ -80,7 +80,14 @@ document.write(`${name} Orderd ${product} on ${store}`);
 
 
 // //Three
+var num;
+var $num;
+var _num;
 
+// var 1num;
+// var +num;
+// var @num;
+// var :num
 
 
 
